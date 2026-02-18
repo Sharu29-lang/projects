@@ -1,0 +1,4 @@
+Flask==3.0.3
+opencv-contrib-python==4.10.0.84
+mysql-connector-python==9.0.0
+numpy==2.1.0
